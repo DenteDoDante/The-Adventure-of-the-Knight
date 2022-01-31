@@ -30,9 +30,10 @@
           System.Threading.Thread.Sleep(300);
           Console.WriteLine("Blink");
           System.Threading.Thread.Sleep(700);
-          Console.WriteLine("A silhueta se levanta de sua cama e caminha ate ficar de frente a um espelho");
           Console.ReadLine();
+          Console.WriteLine("A silhueta se levanta de sua cama e caminha ate ficar de frente a um espelho");
           Console.WriteLine("COMO É A SILHUETA ?");
+          Console.ReadLine();
           Criacao();
           }
           static void Criacao()
