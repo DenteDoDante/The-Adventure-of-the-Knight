@@ -2,9 +2,15 @@ namespace Rpg
 {
     class Silhueta
     {
-        private static void silhueta()
+        private List<Caracteristica> aparencia; 
+
+        public static void silhueta()
         {
             
+        }
+        public List<Caracteristica> getPersonalizacao()
+        {
+           return this.aparencia;
         }
     }
 }

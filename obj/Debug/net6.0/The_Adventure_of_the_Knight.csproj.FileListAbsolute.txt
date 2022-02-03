@@ -1,0 +1,15 @@
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\bin\Debug\net6.0\The_Adventure_of_the_Knight.exe
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\bin\Debug\net6.0\The_Adventure_of_the_Knight.deps.json
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\bin\Debug\net6.0\The_Adventure_of_the_Knight.runtimeconfig.json
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\bin\Debug\net6.0\The_Adventure_of_the_Knight.dll
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\bin\Debug\net6.0\ref\The_Adventure_of_the_Knight.dll
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\bin\Debug\net6.0\The_Adventure_of_the_Knight.pdb
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\The_Adventure_of_the_Knight.csproj.AssemblyReference.cache
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\The_Adventure_of_the_Knight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\The_Adventure_of_the_Knight.AssemblyInfoInputs.cache
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\The_Adventure_of_the_Knight.AssemblyInfo.cs
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\The_Adventure_of_the_Knight.csproj.CoreCompileInputs.cache
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\The_Adventure_of_the_Knight.dll
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\ref\The_Adventure_of_the_Knight.dll
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\The_Adventure_of_the_Knight.pdb
+C:\Users\Richard Maia\Desktop\The_Adventure_of_the_Knight\obj\Debug\net6.0\The_Adventure_of_the_Knight.genruntimeconfig.cache

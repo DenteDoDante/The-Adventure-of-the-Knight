@@ -47,16 +47,10 @@ namespace Rpg
             puxado_e_fechado.setTipoOlho(1);
             return puxado_e_fechado;
         }
-        private static Caracteristica Cansados()
-        {
-            Caracteristica olhoscansados = new Caracteristica();
-            olhoscansados.setTipoOlho(2);
-            return olhoscansados;
-        }
         private static Caracteristica Abertos()
         {
             Caracteristica olhosabertos = new Caracteristica();
-            olhosabertos.setTipoOlho(3);
+            olhosabertos.setTipoOlho(2);
             return olhosabertos;
         }
         private static Caracteristica SemOlhos()
@@ -71,29 +65,11 @@ namespace Rpg
             amarelo.setCorOlho(1);
             return amarelo;
         }
-        private static Caracteristica Branco()
-            {
-                Caracteristica branco = new Caracteristica();
-                branco.setCorOlho(2);
-                return branco;
-            }
-        private static Caracteristica Azul()
-            {
-                Caracteristica azul = new Caracteristica();
-                azul.setCorOlho(3);
-                return azul;
-            }
         private static Caracteristica Preto()
             {
                 Caracteristica preto = new Caracteristica();
-                preto.setCorOlho(4);
+                preto.setCorOlho(2);
                 return preto;
-            }
-        private static Caracteristica Rosa()
-            {
-                Caracteristica rosa = new Caracteristica();
-                rosa.setCorOlho(5);
-                return rosa;
             }
         #endregion
 
@@ -110,14 +86,10 @@ namespace Rpg
         {
            List<Caracteristica> olhos = new List<Caracteristica>();
            olhos.Add(Puxado_e_fechado());
-           olhos.Add(Cansados());
            olhos.Add(Abertos());
            olhos.Add(SemOlhos());
            olhos.Add(Amarelo());
-           olhos.Add(Branco());
-           olhos.Add(Azul());
            olhos.Add(Preto());
-           olhos.Add(Rosa());
            return olhos;    
         }
     }

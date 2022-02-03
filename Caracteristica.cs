@@ -9,19 +9,19 @@ namespace Rpg
        
        public int getTipoCabelo()
        {
-           return this.tipoCabelo;
+           return tipoCabelo;
        }
        public int getCorCabelo()
        {
-           return this.corCabelo;
+           return corCabelo;
        }
        public int getTipoOlho()
        {
-           return this.tipoOlho;
+           return tipoOlho;
        }
        public int getCorOlho()
        {
-           return this.corOlho;
+           return corOlho;
        }
        public void setTipoOlho(int tipoOlho)
        {
